@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.booklink</groupId>
-	<artifactId>BookLink</artifactId>
+	<artifactId>HotelBooking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BookLink</name>
 	<description>Demo project for Spring Boot</description>

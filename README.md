@@ -73,7 +73,7 @@ BookLink/
 │   │       ├── application.yml       # Spring configuration
 │   │       └── db/
 │   │           └── migration/
-│   │               └── V1__create_booklink_schemas.sql
+│   │               └── V1__create_hotelbooking_schemas.sql
 │   └── test/
 │       ├── java/
 │       │   └── com/

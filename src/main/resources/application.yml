@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/booklink
+    url: jdbc:postgresql://localhost:5432/hotel
     username: booklink
     password: booklinkpwd
     driver-class-name: org.postgresql.Driver
