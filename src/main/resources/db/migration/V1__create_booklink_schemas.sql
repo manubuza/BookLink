@@ -1,4 +1,4 @@
--- Flyway Migration Script: Create Schemas for BookLink
+-- Flyway Migration Script: Create Schemas for HotelBooking
 
 -- Create Users Table
 CREATE TABLE users

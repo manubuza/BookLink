@@ -107,7 +107,7 @@ BookLink/
 
 2. Navigate to the project directory:
    ```bash
-   cd BookLink
+   cd HotelBooking
    ```
 
 3. Set up the database:
